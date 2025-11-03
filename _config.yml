@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Hi! I'm Zoe Gray, a third year Ph.D. student in Data Science at the University of Virginia. Welcome to my academic portfolio website where I share my research, publications, and projects."
+  location         : "Charlottesville, VA"
   employer         : "University of Virginia"
   uri              : # URL
   email            : "pdy2bw@virginia.edu" 
